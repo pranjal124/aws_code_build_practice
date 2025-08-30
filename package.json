@@ -1,0 +1,13 @@
+{
+  "name": "aws-codebuild-lab",
+  "version": "1.0.0",
+  "description": "Sample Node.js app for AWS CodeBuild lab",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
